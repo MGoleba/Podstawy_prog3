@@ -1,0 +1,32 @@
+# Spis zadań
+
+- **00.** PO CO SĄ STRUKTURY STERUJĄCE? (WHY CONTROL STRUCTURES MATTER) → `00_po_co_struktury.py`
+- **01.** TRZY PODSTAWOWE SPOSOBY STEROWANIA PROGRAMEM → `01_trzy_formy.py`
+- **02.** INSTRUKCJA WARUNKOWA IF — KONTROLA PRĘDKOŚCI → `02_if_predkosc.py`
+- **03.** WARUNEK JEST PYTANIEM — TRUE / FALSE → `03_warunki_logiczne.py`
+- **04.** WCIĘCIA OKREŚLAJĄ, KTÓRE LINIE NALEŻĄ DO IF → `04_wciecia.py`
+- **05.** IF / ELSE — PŁATNOŚĆ Z KONTA → `05_if_else_platnosc.py`
+- **06.** BOOLEAN FLAG — ZMIENNA LOGICZNA Z INFORMACJĄ O ZALICZENIU → `06_flaga_zaliczenie.py`
+- **07.** EVEN OR ODD — LICZBA PARZYSTA CZY NIEPARZYSTA? → `07_parzystosc.py`
+- **08.** WIELE MOŻLIWYCH GAŁĘZI — IF / ELIF / ELSE → `08_jak_dziala_elif.py`
+- **09.** EXAMPLE: CLOTHING SIZE — ROZPOZNAWANIE ROZMIARU ODZIEŻY → `09_rozmiary_ubran.py`
+- **10.** OPERATORY LOGICZNE AND / OR / NOT → `10_operatory_logiczne.py`
+- **11.** LOGIN AND PASSWORD — SPRAWDZANIE LOGINU I HASŁA → `11_login_i_haslo.py`
+- **12.** DISCOUNT ELIGIBILITY — SPRAWDZENIE PRAWA DO ZNIŻKI → `12_znizka_wiek.py`
+- **13.** NESTED DECISIONS — ZAGNIEŻDŻONE IF, SPRAWDZENIE DNIA LUTEGO → `13_zagniezdzone_if.py`
+- **14.** ITERATION — CZYM JEST POWTARZANIE INSTRUKCJI? → `14_iteracja.py`
+- **15.** FOR LOOP — PRZECHODZENIE PO ZNAKACH NAPISU → `15_petla_for_napis.py`
+- **16.** RANGE(5) — LICZBY OD 0 DO 4 → `16_range_od_zera.py`
+- **17.** RANGE(START, STOP) — LICZBY OD 1 DO 5 → `17_range_poczatek_koniec.py`
+- **18.** REPEATING AN INSTRUCTION — SZEŚCIOKROTNE POWTÓRZENIE NAPISU → `18_powtorz_tekst.py`
+- **19.** WYPISYWANIE NUMERÓW POWTÓRZEŃ → `19_licznik_powtorzen.py`
+- **20.** BUILDING TEXT IN A LOOP — TWORZENIE NOWEGO NAPISU → `20_budowanie_napisu.py`
+- **21.** ACCUMULATOR PATTERN — SUMOWANIE LICZB 1, 2, 3, 4, 5 → `21_akumulator.py`
+- **22.** COMBINING LOOP AND DECISION — SUMA LICZB PARZYSTYCH OD 1 DO 10 → `22_for_i_if.py`
+- **23.** CONTINUE — POMIJANIE RESZTY BIEŻĄCEJ ITERACJI → `23_continue.py`
+- **24.** WHILE LOOP — POWTARZANIE, DOPÓKI WARUNEK JEST TRUE → `24_while_licznik.py`
+- **25.** ASKING UNTIL INPUT IS CORRECT — PYTANIE O IMIĘ AŻ DO ODPOWIEDZI → `25_while_imie.py`
+- **26.** BREAK — ZAKOŃCZENIE PĘTLI PO WPISANIU ZERA → `26_break_sumowanie.py`
+- **27.** FOR OR WHILE? — JAK DOBRAĆ ODPOWIEDNIĄ PĘTLĘ → `27_for_czy_while.py`
+- **28.** NESTED LOOPS — PĘTLA W PĘTLI → `28_petle_zagniezdzone.py`
+- **29.** COMMON BEGINNER MISTAKES — PIĘĆ CZĘSTYCH BŁĘDÓW → `29_typowe_bledy.py`
