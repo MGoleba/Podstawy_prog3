@@ -1,0 +1,33 @@
+# Spis zadań
+
+- **00.** PIERWSZY PROGRAM — WYŚWIETLANIE TEKSTU → `00_pierwszy_program.py`
+- **01.** PODSTAWOWA IDEA PROGRAMOWANIA — OBLICZANIE BMI → `01_bmi_stale_dane.py`
+- **02.** INTERACTIVE MODE — OBLICZENIA W TRYBIE INTERAKTYWNYM → `02_tryb_interaktywny.py`
+- **03.** SCRIPT MODE — BMI NA PODSTAWIE DANYCH WPISYWANYCH PRZEZ UŻYTKOWNIKA → `03_bmi_od_uzytkownika.py`
+- **04.** RÓŻNICA MIĘDZY TRYBEM INTERAKTYWNYM A SKRYPTOWYM → `04_tryby_pracy.py`
+- **05.** SYMULATOR PIĘCIU RZUTÓW KOSTKĄ → `05_kostka.py`
+- **06.** EXPRESSIONS AND VALUES — WYRAŻENIA I WARTOŚCI → `06_wyrazenia.py`
+- **07.** OPERATORY ARYTMETYCZNE → `07_operatory.py`
+- **08.** KOLEJNOŚĆ WYKONYWANIA DZIAŁAŃ → `08_kolejnosc_dzialan.py`
+- **09.** TYPY DANYCH → `09_typy_danych.py`
+- **10.** WPŁYW TYPU DANYCH NA ZACHOWANIE OPERATORÓW → `10_operator_a_typ.py`
+- **11.** VARIABLE — ZMIENNE → `11_zmienne.py`
+- **12.** DOBRE NAZWY ZMIENNYCH → `12_nazwy_zmiennych.py`
+- **13.** ASSIGNMENT — PRZYPISYWANIE WARTOŚCI → `13_przypisanie.py`
+- **14.** MODULES AND FUNCTIONS — MODUŁY I FUNKCJE → `14_moduly_funkcje.py`
+- **15.** PROGRAM OUTPUT — WYŚWIETLANIE WYNIKU → `15_wyswietlanie.py`
+- **16.** F-STRINGS — WSTAWIANIE WARTOŚCI ZMIENNYCH DO TEKSTU → `16_f_string.py`
+- **17.** INPUT DATA — POBIERANIE IMIENIA I NAZWISKA → `17_imie_nazwisko.py`
+- **18.** TYPE CONVERSION — KONWERSJA TEKSTU NA LICZBĘ → `18_objetosc_szescianu.py`
+- **19.** PROGRAM OBLICZENIOWY — CENA PO RABACIE → `19_rabat.py`
+- **20.** STRINGS AS SEQUENCES — DŁUGOŚĆ TEKSTU I INDEKSY → `20_znaki_indeksy.py`
+- **21.** SLICING — WYCINANIE FRAGMENTÓW TEKSTU → `21_wycinki_tekstu.py`
+- **22.** PRAKTYCZNE OPERACJE NA TEKŚCIE → `22_metody_tekstu.py`
+- **23.** CHARACTERS AND CODES — ZNAKI I KODY UNICODE → `23_kody_znakow.py`
+- **24.** LOGICAL VALUES — WARTOŚCI TRUE I FALSE → `24_wartosci_logiczne.py`
+- **25.** COMPARISON OPERATORS — OPERATORY PORÓWNANIA → `25_porownania.py`
+- **26.** LOGICAL OPERATORS — AND, OR I NOT → `26_operatory_logiczne.py`
+- **27.** REMAINDER AND EVEN NUMBERS — SPRAWDZANIE PARZYSTOŚCI → `27_parzystosc.py`
+- **28.** ALGORITHM — POLE I OBWÓD KOŁA → `28_kolo.py`
+- **29.** FROM TASK TO PROGRAM — KOSZT PALIWA NA TRASIE → `29_koszt_transportu.py`
+- **30.** COMMON BEGINNER MISTAKES — BŁĘDY POCZĄTKUJĄCYCH → `30_typowe_bledy.py`
